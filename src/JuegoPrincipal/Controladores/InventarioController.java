@@ -1,4 +1,4 @@
 package JuegoPrincipal.Controladores;
 
-public class VistaPrincipalController {
+public class InventarioController {
 }
