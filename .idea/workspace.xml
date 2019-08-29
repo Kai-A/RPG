@@ -1,27 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="cdb932d9-7e58-4d94-93a9-e7b232ef17da" name="Default" comment="Organizando el proyecto">
-      <change afterPath="$PROJECT_DIR$/src/JuegoPrincipal/Bsn/EnemigoBsn.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/JuegoPrincipal/Bsn/PersonajeBsn.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/JuegoPrincipal/Controladores/CombateController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/JuegoPrincipal/Controladores/FinDeCombateController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/JuegoPrincipal/Controladores/FinDelJuegoController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/JuegoPrincipal/Controladores/HistoriaController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/JuegoPrincipal/Controladores/InventarioController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/JuegoPrincipal/DAO/EnemigoDAO.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/JuegoPrincipal/DAO/PersonajeDAO.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/JuegoPrincipal/Vistas/Inventario.fxml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/JuegoPrincipal/Vistas/combate.fxml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/JuegoPrincipal/Vistas/fin-de-combate.fxml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/JuegoPrincipal/Vistas/fin-del-juego.fxml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/JuegoPrincipal/Vistas/historia.fxml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/ant.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/JuegoPrincipal/Controladores/VistaPrincipalController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/JuegoPrincipal/Controladores/MenuDeInicioController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/JuegoPrincipal/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/JuegoPrincipal/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/JuegoPrincipal/Vistas/VistaPrincipal.fxml" beforeDir="false" afterPath="$PROJECT_DIR$/src/JuegoPrincipal/Vistas/menu-de-inicio.fxml" afterDir="false" />
-    </list>
+    <list default="true" id="cdb932d9-7e58-4d94-93a9-e7b232ef17da" name="Default" comment="Organizando el proyecto" />
     <ignored path="JavaFxApplication.iws" />
     <ignored path=".idea/workspace.xml" />
     <ignored path="$PROJECT_DIR$/out/" />
@@ -117,50 +97,54 @@
           <provider editor-type-id="JavaFX-Scene-Builder" />
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/JuegoPrincipal/Vistas/combate.fxml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="85">
-              <caret line="5" column="49" selection-start-line="5" selection-start-column="49" selection-end-line="5" selection-end-column="49" />
+            <state relative-caret-position="102">
+              <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
             </state>
           </provider>
           <provider editor-type-id="JavaFX-Scene-Builder" />
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/JuegoPrincipal/Controladores/CombateController.java">
+        <entry file="file://$PROJECT_DIR$/src/JuegoPrincipal/Vistas/fin-de-combate.fxml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="34">
-              <caret line="2" column="30" selection-start-line="2" selection-start-column="30" selection-end-line="2" selection-end-column="30" />
+            <state relative-caret-position="68">
+              <caret line="5" column="78" selection-start-line="5" selection-start-column="78" selection-end-line="5" selection-end-column="78" />
             </state>
           </provider>
+          <provider editor-type-id="JavaFX-Scene-Builder" />
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/JuegoPrincipal/Controladores/FinDeCombateController.java">
+        <entry file="file://$PROJECT_DIR$/src/JuegoPrincipal/Vistas/historia.fxml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="34">
-              <caret line="2" column="35" selection-start-line="2" selection-start-column="35" selection-end-line="2" selection-end-column="35" />
+            <state relative-caret-position="68">
+              <caret line="5" column="74" selection-start-line="5" selection-start-column="74" selection-end-line="5" selection-end-column="74" />
             </state>
           </provider>
+          <provider editor-type-id="JavaFX-Scene-Builder" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/JuegoPrincipal/Vistas/Inventario.fxml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="153">
+              <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
+            </state>
+          </provider>
+          <provider editor-type-id="JavaFX-Scene-Builder" />
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/JuegoPrincipal/Controladores/InventarioController.java">
+        <entry file="file://$PROJECT_DIR$/src/JuegoPrincipal/Vistas/fin-del-juego.fxml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="34">
-              <caret line="2" column="33" selection-start-line="2" selection-start-column="33" selection-end-line="2" selection-end-column="33" />
+            <state relative-caret-position="136">
+              <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
             </state>
           </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/JuegoPrincipal/Controladores/HistoriaController.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="34">
-              <caret line="2" column="31" selection-start-line="2" selection-start-column="31" selection-end-line="2" selection-end-column="31" />
-            </state>
-          </provider>
+          <provider editor-type-id="JavaFX-Scene-Builder" />
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
@@ -202,11 +186,12 @@
         <option value="$PROJECT_DIR$/src/JuegoPrincipal/Controller.java" />
         <option value="$PROJECT_DIR$/src/JuegoPrincipal/Controladores/Controller.java" />
         <option value="$PROJECT_DIR$/src/JuegoPrincipal/Vistas/PantallaFinal.fxml" />
-        <option value="$PROJECT_DIR$/src/JuegoPrincipal/Vistas/Inventario.fxml" />
+        <option value="$PROJECT_DIR$/src/JuegoPrincipal/Controladores/CombateController.java" />
+        <option value="$PROJECT_DIR$/src/JuegoPrincipal/Vistas/combate.fxml" />
+        <option value="$PROJECT_DIR$/src/JuegoPrincipal/Vistas/fin-del-juego.fxml" />
         <option value="$PROJECT_DIR$/src/JuegoPrincipal/Vistas/fin-de-combate.fxml" />
         <option value="$PROJECT_DIR$/src/JuegoPrincipal/Vistas/historia.fxml" />
-        <option value="$PROJECT_DIR$/src/JuegoPrincipal/Vistas/combate.fxml" />
-        <option value="$PROJECT_DIR$/src/JuegoPrincipal/Controladores/CombateController.java" />
+        <option value="$PROJECT_DIR$/src/JuegoPrincipal/Vistas/Inventario.fxml" />
       </list>
     </option>
   </component>
@@ -247,6 +232,13 @@
               <item name="RPG" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="JuegoPrincipal" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="RPG" type="b2602c69:ProjectViewProjectNode" />
+              <item name="RPG" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="JuegoPrincipal" type="462c0819:PsiDirectoryNode" />
+              <item name="Vistas" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -372,18 +364,25 @@
       <updated>1359379246138</updated>
       <workItem from="1359379250712" duration="1302000" />
       <workItem from="1567092677891" duration="257000" />
-      <workItem from="1567093111407" duration="1122000" />
+      <workItem from="1567093111407" duration="2038000" />
     </task>
+    <task id="LOCAL-00001" summary="Organizando el proyecto">
+      <created>1567094376409</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1567094376409</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="2681000" />
+    <option name="totallyTimeSpent" value="3597000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1386" height="788" extended-state="0" />
-    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.6703755" visible="true" weight="0.25716442" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.6703755" visible="true" weight="0.25716442" />
       <window_info id="Structure" order="1" weight="0.25" />
       <window_info id="Favorites" order="2" />
       <window_info id="Designer" order="3" />
@@ -403,7 +402,7 @@
       <window_info anchor="bottom" id="Changes" order="10" />
       <window_info anchor="bottom" id="Profiler" order="11" />
       <window_info anchor="bottom" id="Event Log" order="12" />
-      <window_info active="true" anchor="bottom" id="Messages" order="13" visible="true" weight="0.32977098" />
+      <window_info anchor="bottom" id="Messages" order="13" weight="0.32977098" />
       <window_info anchor="bottom" id="Docker" order="14" show_stripe_button="false" />
       <window_info anchor="bottom" id="Database Changes" order="15" />
       <window_info anchor="bottom" id="Terminal" order="16" />
@@ -473,38 +472,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/JuegoPrincipal/Vistas/fin-del-juego.fxml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="10" column="62" selection-start-line="10" selection-start-column="27" selection-end-line="10" selection-end-column="62" />
-        </state>
-      </provider>
-      <provider editor-type-id="JavaFX-Scene-Builder" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/JuegoPrincipal/Vistas/Inventario.fxml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="10" column="59" selection-start-line="10" selection-start-column="27" selection-end-line="10" selection-end-column="59" />
-        </state>
-      </provider>
-      <provider editor-type-id="JavaFX-Scene-Builder" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/JuegoPrincipal/Vistas/fin-de-combate.fxml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="10" column="61" selection-start-line="10" selection-start-column="27" selection-end-line="10" selection-end-column="61" />
-        </state>
-      </provider>
-      <provider editor-type-id="JavaFX-Scene-Builder" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/JuegoPrincipal/Vistas/historia.fxml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="10" column="57" selection-start-line="10" selection-start-column="27" selection-end-line="10" selection-end-column="57" />
-        </state>
-      </provider>
-      <provider editor-type-id="JavaFX-Scene-Builder" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/JuegoPrincipal/Controladores/CombateController.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="34">
@@ -571,8 +538,40 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/JuegoPrincipal/Vistas/combate.fxml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="5" column="49" selection-start-line="5" selection-start-column="49" selection-end-line="5" selection-end-column="49" />
+        <state relative-caret-position="102">
+          <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
+        </state>
+      </provider>
+      <provider editor-type-id="JavaFX-Scene-Builder" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/JuegoPrincipal/Vistas/fin-del-juego.fxml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
+        </state>
+      </provider>
+      <provider editor-type-id="JavaFX-Scene-Builder" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/JuegoPrincipal/Vistas/fin-de-combate.fxml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="5" column="78" selection-start-line="5" selection-start-column="78" selection-end-line="5" selection-end-column="78" />
+        </state>
+      </provider>
+      <provider editor-type-id="JavaFX-Scene-Builder" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/JuegoPrincipal/Vistas/historia.fxml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="5" column="74" selection-start-line="5" selection-start-column="74" selection-end-line="5" selection-end-column="74" />
+        </state>
+      </provider>
+      <provider editor-type-id="JavaFX-Scene-Builder" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/JuegoPrincipal/Vistas/Inventario.fxml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
         </state>
       </provider>
       <provider editor-type-id="JavaFX-Scene-Builder" />
